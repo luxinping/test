@@ -1,4 +1,4 @@
-// ----------------------------------------------------------------
+﻿// ----------------------------------------------------------------
 // Copyright (c) 2003,成都天奥信息科技有限公司
 // All rights reserved. 
 //
@@ -41,7 +41,6 @@ namespace Spaceon.CommonUtils.LogRecord
     public delegate void DegLogRecord(byte logType, string logContent);
     #endregion 委托定义区
 
-	加一点测试
     /// <summary>
     /// 日志类，提供日志记录实现
     /// </summary>
